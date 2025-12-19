@@ -1,4 +1,4 @@
-# Git Agent 操作说明 (Git Agent User Guide)
+# Git Agent 操作说明 (Git Agent Manual)
 
 ## 1. 核心理念 (Core Philosophy)
 Git Agent 采用 **“物理隔离开发”** 模式，旨在解决 Trae 环境下多任务并行开发时的代码冲突和上下文污染问题。
