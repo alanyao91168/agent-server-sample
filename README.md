@@ -7,6 +7,7 @@
 ## todo
 [] 紧急事项
 - [x] URGENT:撰写git-agent说明[#1](https://github.com/alanyao91168/agent-server-sample/issues/1) [DONE]
+- [ ] URGENT:修复trae project_rules 位置[#5](https://github.com/alanyao91168/agent-server-sample/issues/5)
 [] 待办事项
 [] 问题修复
 [] 备注信息
