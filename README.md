@@ -8,10 +8,10 @@
 [] 紧急事项
 - [x] URGENT:撰写git-agent说明[#1](https://github.com/alanyao91168/agent-server-sample/issues/1) [DONE]
 [] 待办事项
-- [ ] TODO:撰写todo-agent说明[#2](https://github.com/alanyao91168/agent-server-sample/issues/2)
 [] 问题修复
 [] 备注信息
 [] 已完成
+- [x] TODO:撰写todo-agent说明[#2](https://github.com/alanyao91168/agent-server-sample/issues/2) [DONE]
 ## A2A (Agent-to-Agent) 协议说明
 
 A2A 协议是本 AI Agent Server 与其他 Agent 客户端进行通信的核心机制。它定义了 Agent 之间消息交换的格式、内容和行为规范。

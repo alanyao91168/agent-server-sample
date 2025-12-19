@@ -2,6 +2,8 @@
 
 | Todo 唯一标识 | Todo 任务 ID | GitHub Issue ID | 分支名称 | dev 目录路径 | 状态 | main 基线版本 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| README.md:9 | 1 | 1 | feat/issue-1-git-agent-docs | - | 已合并/已删除 | c2c89d8 |
+| README.md:11 | 2 | 2 | feat/issue-2-todo-agent-docs | - | 已合并/已删除 | 5940d3a |
 | - | - | - | - | - | - | - |
 
 ---
