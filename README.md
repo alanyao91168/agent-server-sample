@@ -5,13 +5,14 @@
 `agent-server-sample` 是一个基于 Trae IDE 开发的 AI Agent Server 示例项目。它旨在提供一个可扩展的框架，用于构建和部署 AI Agent，并通过 A2A (Agent-to-Agent) 协议与其他 Agent 客户端进行交互。本项目将作为你开发 AI 应用的基础，逐步迭代和完善。
 
 ## todo
-[] 紧急事项
+### 紧急事项
 - [x] URGENT:撰写git-agent说明[#1](https://github.com/alanyao91168/agent-server-sample/issues/1) [DONE]
-- [ ] URGENT:修复trae project_rules 位置[#5](https://github.com/alanyao91168/agent-server-sample/issues/5)
-[] 待办事项
-[] 问题修复
-[] 备注信息
-[] 已完成
+- [x] URGENT:修复trae project_rules 位置[#5](https://github.com/alanyao91168/agent-server-sample/issues/5)
+
+### 待办事项
+### 问题修复
+### 备注信息
+### 已完成
 - [x] TODO:撰写todo-agent说明[#2](https://github.com/alanyao91168/agent-server-sample/issues/2) [DONE]
 ## A2A (Agent-to-Agent) 协议说明
 
