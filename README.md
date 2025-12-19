@@ -6,9 +6,9 @@
 
 ## todo
 [] 紧急事项
-- [] URGENT:撰写git-agent说明[issue-1]
+- [x] URGENT:撰写git-agent说明[#1](https://github.com/alanyao91168/agent-server-sample/issues/1) [DONE]
 [] 待办事项
-- [] TODO:撰写todo-agent说明[issue-2]
+- [ ] TODO:撰写todo-agent说明[#2](https://github.com/alanyao91168/agent-server-sample/issues/2)
 [] 问题修复
 [] 备注信息
 [] 已完成
