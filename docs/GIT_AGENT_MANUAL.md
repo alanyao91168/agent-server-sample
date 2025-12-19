@@ -19,7 +19,7 @@ Git Agent 采用 **“物理隔离开发”** 模式，旨在解决 Trae 环境�
 
 ### 第一步：创建开发环境 (Create Environment)
 当接收到新的任务（关联 Issue）时，Git Agent 会：
-1. 在 `dev/` 下创建以分支名为命名的子目录。
+1. 在 `dev/` 下创建以分支名为命名的子目录（例如 `dev/feat/issue-1-xxx/`）。**注意：目录路径必须与分支名保持 1:1 映射。**
 2. 在该子目录下执行 `git clone` 或 `git init` 关联远端仓库。
 3. 创建并切换到对应的功能分支。
 4. 更新 `docs/git_agent_mapping.md` 映射表。
